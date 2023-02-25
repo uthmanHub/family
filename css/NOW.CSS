@@ -1,0 +1,34 @@
+body{
+    background: rgb(231, 77, 206);
+    background-color: rgb(253, 165, 178);
+
+
+}
+.container{
+    background-color: rgb(196, 161, 44);
+    border: rgb(245, 237, 134) solid 10px;
+    padding: 15px;
+    width: 210px; 
+    height: 300px; 
+    top: 100px; 
+    right: 60px;
+    bottom: 500px;
+    left:  550px;
+    position: relative;
+    
+
+
+}
+  
+h2{
+    margin-bottom: 5px;
+}
+  
+
+input{
+    margin: 5px;
+    margin-left: 15px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    padding: 5px;
+}
